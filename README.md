@@ -1,0 +1,3 @@
+# Python Tutorial for beginners
+![Python](https://1.bp.blogspot.com/-kNhAMJs8URc/U1CHMzHqqQI/AAAAAAAAU88/87mxj2WQU5s/s1600/zen-of-python-poster-a3.png)
+Hello flocks, this is Mr. Blogger(Mistry Siddh) I created this repository so that you can lean from here as well as you can share your knowledge as simple as you can so that other programmers as I'm can understand it easily. My goal is to spread knowledge and gain knowledge for learning purpose. This repo will help many people to gain information of programming in python. 
