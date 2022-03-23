@@ -15,6 +15,6 @@ print('* ' * 3)
 # is your answer of the above line now you can try down bellow with your actions
 
 # Practice
-print('|' * 10)  # change 0 and characters in the quotation mark
+print('|' * 10)  # change 10 and characters in the quotation mark
 
 
