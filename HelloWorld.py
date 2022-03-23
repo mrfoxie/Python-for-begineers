@@ -14,4 +14,7 @@ print('* ' * 3)
 # will multiply the output and give you the answer in the above case it will print 3 time '*' like this *** << this
 # is your answer of the above line now you can try down bellow with your actions
 
+# Practice
 print('|' * 10)  # change 0 and characters in the quotation mark
+
+
