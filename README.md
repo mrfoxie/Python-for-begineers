@@ -104,7 +104,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mrfoxie/Pyth
 
 ## Authors
 
-* **Mistry Siddh** -  [Shaan Khan](https://mistrysiddh.tk)
+* **Mistry Siddh** -  [MrBlogger](https://mistrysiddh.tk)
 
 ## Acknowledgements
 
