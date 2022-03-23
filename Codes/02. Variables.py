@@ -10,9 +10,16 @@ print(age)  # you will get answer '25' in the terminal box
 name = 'HelloWorld'
 print(name)  # you will answer 'HelloWorld' in the terminal box.
 
-
 # Try yourself
 number = 0
 characters = 'Change_me'
 print(number)
 print(characters)
+
+# Now say for example I used 2 time the same variable with different variables. Lets check it out.
+python = 22
+python = 'I win.'
+print(python)  # run the program and try it by yourself and check the answer.
+
+
+# Question answer time
