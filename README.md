@@ -93,9 +93,9 @@ Contributions are what make the open source community such an amazing place to b
 ### Creating A Pull Request
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b mrfoxie/Python-for-beginners`)
+3. Commit your Changes (`git commit -m 'Add some Comment'`)
+4. Push to the Branch (`git push origin mrfoxie/Python-for-beginners`)
 5. Open a Pull Request
 
 ## License
@@ -104,10 +104,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mrfoxie/Pyth
 
 ## Authors
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Mistry Siddh** -  [Shaan Khan](https://mistrysiddh.tk)
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+* [Mistry Siddh](https://www.mistrysiddh.tk/)
+* [MrFoxie](https://github.com/mrfoxie)
 * [ImgShields](https://shields.io/)
