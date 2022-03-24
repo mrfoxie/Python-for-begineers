@@ -20,6 +20,3 @@ print(characters)
 python = 22
 python = 'I win.'
 print(python)  # run the program and try it by yourself and check the answer.
-
-
-# Question answer time
