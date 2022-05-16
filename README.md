@@ -19,7 +19,6 @@
     .
     <a href="https://github.com/mrfoxie/Python-for-beginners/issues">Request Feature</a>
   </p>
-</p>
 
 ![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners) 
 
@@ -43,38 +42,55 @@
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.
 
-It can be used to build apps, website, automation and much more. It is a userfrindly script which can be used by any one around the world 🌏. The main use of python is been used for AI, Machine Learning, Automation, etc. which help us to do our work easliy.
+It can be used to build apps, website, automation and much more. It is a user-friendly script which can be used by anyone around the world 🌏. The main use of python is being used for AI, Machine Learning, Automation, etc. which help us to do our work easily.
 
 ## Built With
 
-We will be needing few software which will help you to build script and also your program.
+We will be needing little software which will help you to build script and also your program.
 
 ## Getting Started
 
-What we will be needing few software to getting started with:
+What we will be needing little software to getting started with:
 
 1. [Python 3.xx.x]([Download Python | Python.org](https://www.python.org/downloads/)) (for Windows, Mac or Linux)
 
-2. [Pycharm]([Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/)) (select Communcation verion for Windows, Mac or Linux)
+2. [Pycharm]([Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/)) (select Communication version for Windows, Mac or Linux)
 
 ### Prerequisites
 
-We will be either needing any kind of devices no matter if your an IOS user or android user.
+We will be either needing any kind of devices no matter if you're an IOS user or android user.
 
 ### Installation
 
 1. [Python 3.xx.x]([Download Python | Python.org](https://www.python.org/downloads/)) (for Windows, Mac or Linux)
 
-2. [Pycharm]([Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/)) (select Communcation verion for Windows, Mac or Linux)
+2. [Pycharm]([Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/)) (select Communication version for Windows, Mac or Linux)
 
 ## Usage
 
 1. After installing both the software open up.
 
-2. First of all we will be creating new project with whatever name you want or just clone this repo into any directory and open it up into Pycharm.
+2. First we will be creating new project with whatever name you want or just clone this repo into any directory and open it up into Pycharm.
 
 ```git
-git clone https://github.com/mrfoxie/Python-for-begineers.git
+cd ~/
+git clone https://github.com/mrfoxie/Python-for-begineers.git Python-Tutorials
+```
+
+3. Now cd to `Python-Tutorials` and then to `Codes` to execute the file.
+```bash
+cd ~/Python-Tutorials/Codes
+ls -1
+```
+it will give you list of all codes which are being executable.
+```text
+'01. HelloWorld.py'
+'02. Variables.py'
+'03. Example 01 Ans.py'
+'03. Example 01.py'
+'04. Input.py'
+'05. Example 02 Ans.py'
+'05. Example 02.py'
 ```
 
 ## Roadmap
@@ -83,7 +99,7 @@ See the [open issues](https://github.com/mrfoxie/Python-for-beginners/issues) fo
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learnt, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/mrfoxie/Python-for-beginners/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.

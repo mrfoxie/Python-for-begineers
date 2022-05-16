@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Variable are used to store data. Variables may be of different type such as string, float, integer etc.
 # Variables are also used to as input from users, and then you can store in its memory.
 # Say for example if you want to save someone's age then you have to just use variable to save e.g. age = 25
