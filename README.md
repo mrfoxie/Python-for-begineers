@@ -92,6 +92,8 @@ it will give you list of all codes which are being executable.
 '05. Example 02 Ans.py'
 '05. Example 02.py'
 ```
+<a href="https://pythonforbeginners.jetbrains.space/p/python-for-beginners/repositories/Python-for-beginners/files">
+<img src="https://plugins.jetbrains.com/files/13362/85143/icon/META-INF_pluginIcon.png" alt="Logo" width="10%"></a>
 
 ## Roadmap
 
@@ -127,3 +129,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mrfoxie/Pyth
 * [Mistry Siddh](https://www.mistrysiddh.tk/)
 * [MrFoxie](https://github.com/mrfoxie)
 * [ImgShields](https://shields.io/)
+* [JetBrain](https://pythonforbeginners.jetbrains.space/oauth/auth/invite/d8031812e2d609eb766e4080cef8eb91) link available for one month from 16-May-2022
