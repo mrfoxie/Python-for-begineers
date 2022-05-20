@@ -30,6 +30,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [List of Codes](#list-of-codes)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -83,14 +84,25 @@ cd ~/Python-Tutorials/Codes
 ls -1
 ```
 it will give you list of all codes which are being executable.
+
+## List of codes
 ```text
-'01. HelloWorld.py'
-'02. Variables.py'
-'03. Example 01 Ans.py'
-'03. Example 01.py'
-'04. Input.py'
-'05. Example 02 Ans.py'
-'05. Example 02.py'
+Codes
+├── 01. HelloWorld.py
+├── 02. Variables.py
+├── 03. Example 01 Ans.py
+├── 03. Example 01.py
+├── 04. Input.py
+├── 05. Example 02 Ans.py
+├── 05. Example 02.py
+├── 06. Fun Time.py
+├── 07. Example 03 Ans.py
+├── 07. Example 03.py
+├── 08. Strings.py
+└── 09. Characteristics of String.py
+
+0 directories, 12 files
+
 ```
 <a href="https://pythonforbeginners.jetbrains.space/p/python-for-beginners/repositories/Python-for-beginners/files">
 <img src="https://plugins.jetbrains.com/files/13362/85143/icon/META-INF_pluginIcon.png" alt="Logo" width="10%"></a>
