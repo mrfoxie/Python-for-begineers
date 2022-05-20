@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # now we will be seeing characteristics of string by using square brackets "[]".
 # this is usually to index the characters which are writen in the string
 
