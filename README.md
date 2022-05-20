@@ -22,6 +22,10 @@
 
 ![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners) 
 
+```text
+I'M WORKING ON JUPYTER NOTEBOOK FOR MORE EASIER WAY TO WORK.
+```
+
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
