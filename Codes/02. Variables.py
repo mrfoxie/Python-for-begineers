@@ -15,7 +15,7 @@ name = 'HelloWorld'
 print(name)  # you will answer 'HelloWorld' in the terminal box.
 
 # Try yourself
-number = 0
+number = 0 # change 0 to any number
 characters = 'Change_me'
 print(number)
 print(characters)
