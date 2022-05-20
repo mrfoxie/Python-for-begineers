@@ -108,8 +108,6 @@ Codes
 0 directories, 12 files
 
 ```
-<a href="https://pythonforbeginners.jetbrains.space/p/python-for-beginners/repositories/Python-for-beginners/files">
-<img src="https://plugins.jetbrains.com/files/13362/85143/icon/META-INF_pluginIcon.png" alt="Logo" width="10%"></a>
 
 ## Roadmap
 
