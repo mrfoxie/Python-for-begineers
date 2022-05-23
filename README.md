@@ -20,7 +20,7 @@
     <a href="https://github.com/mrfoxie/Python-for-beginners/issues">Request Feature</a>
   </p>
 
-![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners) 
+![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrfoxie/mistrysiddh/master?labpath=Jupyter%20Notebook)
 
 ```text
 I'M WORKING ON JUPYTER NOTEBOOK FOR MORE EASIER WAY TO WORK.
