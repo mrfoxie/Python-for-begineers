@@ -4,7 +4,7 @@
     <img src="https://1.bp.blogspot.com/-kNhAMJs8URc/U1CHMzHqqQI/AAAAAAAAU88/87mxj2WQU5s/s1600/zen-of-python-poster-a3.png" alt="Logo" width="80%">
   </a>
 
-<h3 align="center">Python for Beginners</h3>
+<h3 align="center">🐍Python for Beginners</h3>
 
 <p align="center">
     We will be learning Python from beginning with examples and tutorials.
