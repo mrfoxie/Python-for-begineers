@@ -7,7 +7,7 @@ string_index = 'This is a test string'
 
 print(string_index[0])
 # here what will happen that it will just print only 0 no of index from string_index line which will be "T".
-# well I don't know about other programming language, but you can use -ve numbering for indexing to print characters from the last of the statement.
+# well I don't know about other programming language, but you can use -ve numbering for indexing to print  characters from the last of the statement.
 
 print(string_index[-1])
 # here you will get "G" which is the ending of "string" you can change the negative number to test it.
