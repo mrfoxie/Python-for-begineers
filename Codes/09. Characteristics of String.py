@@ -18,3 +18,12 @@ print(string_index[-1])
 print(string_index[0:4])
 # here you will be able to get "This" as an answer.
 # let's see the explanation of string_index[0:4] here what will happen is it will return with 4 characters because 0 indicate the starting position and 4 means how much number of characters should be extracted from starting position of the index.
+# now if I just want to print test string then I need to find out the location of test then just print it.
+print(string_index[10:])
+# here what it will do is it will start printing from test till the end because we have defined the starting point, but we haven't defined ending point so ti will print till the end.
+# so as we have seen in the above code that if we don't give any number to ending point then it will print till the end but what if we don't define starting point and just define ending point then what will happen?
+print(string_index[:4])
+# as we have seen that square brackets are being used to print certain characters, so we can use it in different types of variables.
+string_index_copy = string_index[:]
+# so what we did is just copied all the text present in string_index to string_index_copy
+print(string_index_copy)
