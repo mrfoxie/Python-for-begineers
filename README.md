@@ -143,4 +143,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/mrfoxie/Pyth
 * [Mistry Siddh](https://www.mistrysiddh.tk/)
 * [MrFoxie](https://github.com/mrfoxie)
 * [ImgShields](https://shields.io/)
-* [JetBrain](https://pythonforbeginners.jetbrains.space/oauth/auth/invite/d8031812e2d609eb766e4080cef8eb91) link available for one month from 16-May-2022
