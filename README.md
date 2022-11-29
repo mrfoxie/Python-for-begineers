@@ -20,7 +20,7 @@
     <a href="https://github.com/mrfoxie/Python-for-beginners/issues">Request Feature</a>
   </p>
 
-![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrfoxie/Python-for-beginners/master)
+![Downloads](https://img.shields.io/github/downloads/mrfoxie/Python-for-beginners/total) ![Contributors](https://img.shields.io/github/contributors/mrfoxie/Python-for-beginners?color=dark-green) ![Issues](https://img.shields.io/github/issues/mrfoxie/Python-for-beginners) ![License](https://img.shields.io/github/license/mrfoxie/Python-for-beginners) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrfoxie/Python-for-beginners/blob/master/Python_For_Beginners.ipynb)
 
 ```text
 I'M WORKING ON JUPYTER NOTEBOOK FOR MORE EASIER WAY TO WORK.
@@ -28,18 +28,20 @@ I'M WORKING ON JUPYTER NOTEBOOK FOR MORE EASIER WAY TO WORK.
 
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [List of Codes](#list-of-codes)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+- [Table Of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [List of codes](#list-of-codes)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+  - [Creating A Pull Request](#creating-a-pull-request)
+- [License](#license)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
